@@ -88,3 +88,21 @@ footer{
     padding: 15px;
     margin-top: 30px;
 }
+
+.fab.fa-instagram {
+    font-size: 24px;
+    color: #E4405F;
+}
+
+.fab.fa-instagram:hover {
+    color: #C13584;
+}
+
+.fab.fa-whatsapp {
+    font-size: 24px;
+    color:#25d366;
+}
+
+.fab.fa-whatsapp:hover {
+    color: #1ebd5a;
+}
