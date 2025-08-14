@@ -11,6 +11,24 @@ header {
     background-color: #ff7f50;
     padding: 20px;
     color: white;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+header nav a {
+    color: white;
+    margin-left: 15px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 header h1 {
