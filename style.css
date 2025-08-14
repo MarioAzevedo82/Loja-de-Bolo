@@ -32,17 +32,22 @@ header nav a {
 }
 
 .apresentacao {
-    padding: 20px;
+    background-image: url("imagens/bolocapa.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
 }
 
-.apresentacao img {
-    max-width: 100%;
-    height: auto;
+.conteudo-apresentacao {
+    background-color: rgba(0,0,0,0.5);
+    padding: 20px;
     border-radius: 8px;
-    margin-bottom: 15px;
-}
-.apresentacao h2,p {
-    color: #ff7f50;
 }
 
 header h1 {
