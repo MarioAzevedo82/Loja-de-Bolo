@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #7650ffff;
+    background-color: rgb(255, 80, 95);
     padding: 20px;
     color: white;
     position: sticky;
